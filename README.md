@@ -13,11 +13,10 @@ The generator will take your desired inputs and randomize one heck of a password
 * JavaScript
 
 ## Website
-* https://salvadorbanuelos424.github.io/Horiseon/
+* https://salvadorbanuelos424.github.io/Random-Password-Generator/
 
 ## GitHub URL
-* https://github.com/SalvadorBanuelos424/Horiseon.git
-
+* https://github.com/SalvadorBanuelos424/Random-Password-Generator.git
 ## Contributing
 Made with ❤️ by Salvador Banuelos
 
